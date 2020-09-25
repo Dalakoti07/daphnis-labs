@@ -22,24 +22,31 @@ Anyone can use this app, who want to purchase the products at optimal price.
     <img src="/screenshots/Screenshot_2.png" height="400px" />
     <img src="/screenshots/Screenshot_3.png" height="400px" />
 </div>
-
+<div>
+<div>
 <div style="display:flex;" >
     <img src="/screenshots/Screenshot_4.png" height="400px" />
     <img src="/screenshots/Screenshot_5.png" height="400px"/>
     <img src="/screenshots/Screenshot_6.png" height="400px"/>
 </div>
+<div>
+<div>
 
 <div style="display:flex;" >
     <img src="/screenshots/Screenshot_7.png" height="400px"/>
     <img src="/screenshots/Screenshot_8.png" height="400px"/>
     <img src="/screenshots/Screenshot_9.png" height="400px"/>
 </div>
+<div>
+<div>
 
 <div style="display:flex;" >
     <img src="/screenshots/Screenshot_10.png" height="400px"/>
     <img src="/screenshots/Screenshot_11.png" height="400px"/>
     <img src="/screenshots/Screenshot_12.png" height="400px"/>
 </div>
+<div>
+<div>
 
 ## Download
 <a href="">
