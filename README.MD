@@ -49,7 +49,7 @@ Anyone can use this app, who want to purchase the products at optimal price.
 <div>
 
 ## Download
-<a href="">
+<a href="/build/optimalPrice.apk">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
 
 # Key Considerations
